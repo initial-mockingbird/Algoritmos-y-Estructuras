@@ -1,0 +1,91 @@
+# 100 Leetcode random picked problems 
+- 3Sum - https://leetcode.com/problems/3sum/
+- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
+- Best time to buy and sell a stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- Binary tree level order traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
+- Binary tree zigzag level order traversal - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- Can place flowers - https://leetcode.com/problems/can-place-flowers/
+- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- Clone Graph - https://leetcode.com/problems/clone-graph/
+- Coin Change - https://leetcode.com/problems/coin-change/
+- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- Construct Binary Tree... Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+- Counting Bits - https://leetcode.com/problems/counting-bits/
+- Course Schedule - https://leetcode.com/problems/course-schedule/
+- Decode Ways - https://leetcode.com/problems/decode-ways/
+- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
+- Find bottom left tree value - https://leetcode.com/problems/find-bottom-left-tree-value
+- Find largest value in each tree row - https://leetcode.com/problems/find-largest-value-in-each-tree-row
+- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+- Find minimum in rotated sorted array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+- First bad version - https://leetcode.com/problems/first-bad-version
+- Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
+- Group Anagrams - https://leetcode.com/problems/group-anagrams/
+- House Robber - https://leetcode.com/problems/house-robber/
+- House Robber II - https://leetcode.com/problems/house-robber-ii/
+- Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+- Insert Interval - https://leetcode.com/problems/insert-interval/
+- Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
+- Jump Game - https://leetcode.com/problems/jump-game/
+- Kth largest element in an array - https://leetcode.com/problems/kth-largest-element-in-an-array/
+- Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- Kth Smallest element in a sorted matrix - https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+- Letter combinations of a phone - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+- Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
+- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
+- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
+- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
+- Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
+- Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
+- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+- Maximun dept of binary tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
+- Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/
+- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+- Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
+- Missing number - https://leetcode.com/problems/missing-number/
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
+- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+- Number of Islands - https://leetcode.com/problems/number-of-islands/
+- Number of longest increasing subsequence - https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
+- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+- Permutation - https://leetcode.com/problems/permutations/
+- Permutation II - https://leetcode.com/problems/permutations-ii/
+- Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- Ransom note - https://leetcode.com/problems/ransom-note/
+- Remove duplicates from sorted Array II - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+- Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- Reorder List - https://leetcode.com/problems/reorder-list/
+- Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- Reverse bits - https://leetcode.com/problems/reverse-bits/
+- Reverse vowels of a string - https://leetcode.com/problems/reverse-vowels-of-a-string/
+- Rotate Image - https://leetcode.com/problems/rotate-image/
+- Same Tree - https://leetcode.com/problems/same-tree/
+- Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+- Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+- Sort characters by frequency - https://leetcode.com/problems/sort-characters-by-frequency/
+- Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+- Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
+- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
+- Two Sum - https://leetcode.com/problems/two-sum/
+- Unique Paths - https://leetcode.com/problems/unique-paths/
+- Valid Anagram - https://leetcode.com/problems/valid-anagram/
+- Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+- Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+- Word Break Problem - https://leetcode.com/problems/word-break/
+- Word Search - https://leetcode.com/problems/word-search/
+- Word Search II - https://leetcode.com/problems/word-search-ii/
