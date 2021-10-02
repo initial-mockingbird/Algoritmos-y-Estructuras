@@ -1,0 +1,44 @@
+// The Round Table
+digraph {
+	c [label=5]
+	cl [label=1]
+	c -> cl
+	cr [label=10]
+	c -> cr
+	cll [label=0]
+	cl -> cll
+	clr [label=4]
+	cl -> clr
+	crl [label=6]
+	cr -> crl
+	crr [label=11]
+	cr -> crr
+	clll [label=-1]
+	cll -> clll
+	cllr [label=Leaf]
+	cll -> cllr
+	clrl [label=2]
+	clr -> clrl
+	clrr [label=Leaf]
+	clr -> clrr
+	crll [label=Leaf]
+	crl -> crll
+	crlr [label=7]
+	crl -> crlr
+	crrl [label=Leaf]
+	crr -> crrl
+	crrr [label=Leaf]
+	crr -> crrr
+	cllll [label=Leaf]
+	clll -> cllll
+	clllr [label=Leaf]
+	clll -> clllr
+	clrll [label=Leaf]
+	clrl -> clrll
+	clrlr [label=Leaf]
+	clrl -> clrlr
+	crlrl [label=Leaf]
+	crlr -> crlrl
+	crlrr [label=Leaf]
+	crlr -> crlrr
+}
